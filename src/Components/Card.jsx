@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import profile from './img/profile.jpg'
+import profile from './img/profile_avatar.jpg'
 import GitHubIcon from '@mui/icons-material/GitHub';
 import PublicIcon from '@mui/icons-material/Public';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
