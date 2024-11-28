@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import profile from './img/profile.jpg'
+import profile from './img/profile_avatar.jpg'
 import GitHubIcon from '@mui/icons-material/GitHub';
 import PublicIcon from '@mui/icons-material/Public';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
@@ -24,7 +24,7 @@ export class Card extends Component {
       Madhumitha
     </h3>
     <h6 class="text-lg font-bold text-black font-sans">
-      Fullstack Developer
+      Software Developer
     </h6>
     <p class="mt-1 text-black font-sans">
     Seeking an innovative and challenging career in a growing organization that provides an opportunity for career growth.
