@@ -27,7 +27,7 @@ export class Card extends Component {
     Upcoming Software Developer
     </h6>
     <p class="mt-1 text-black font-sans">
-    Seeking an innovative and challenging career in a growing organization that provides an opportunity for career growth.
+    Seeking an innovative and challenging environment in a growing organization that provides an opportunity for career growth.
     </p>
        
        <div class="flex flex-row justify-around pt-5">
