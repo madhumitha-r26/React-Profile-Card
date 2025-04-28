@@ -24,7 +24,7 @@ export class Card extends Component {
       Madhumitha
     </h3>
     <h6 class="text-lg font-bold text-black font-sans">
-    Upcoming Software Developer
+    Junior ML Engineer
     </h6>
     <p class="mt-1 text-black font-sans">
     Seeking an innovative and challenging environment in a growing organization that provides career growth opportunities.
