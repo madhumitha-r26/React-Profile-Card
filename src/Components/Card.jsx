@@ -20,11 +20,11 @@ export class Card extends Component {
       <img class="inline-block size-[300px] justify-around rounded-full pt-5" src={profile} alt="Avatar"/>
       </center>
       <div class="p-4 md:p-5">
-    <h3 class="text-lg font-bold text-black font-sans">
+    <h3 class="text-xl font-bold text-black font-[Open_Sans]">
       Madhumitha
     </h3>
-    <h6 class="text-lg font-bold text-black font-sans">
-    Junior ML Engineer
+    <h6 class="text-md font-bold text-black font-sans">
+    AI/ML Engineer & Fullstack Developer
     </h6>
     <p class="mt-1 text-black font-sans">
     Seeking an innovative and challenging environment in a growing organization that provides career growth opportunities.
